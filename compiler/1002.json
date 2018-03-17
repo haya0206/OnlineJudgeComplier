@@ -1,0 +1,28 @@
+{
+    "caseNum" : 5,
+    "case 1" : 
+    {
+        "input" : "1 5",
+        "output" : "-4"
+    },
+    "case 2" :  
+    {rr
+        "input" : "4 7",
+        "output" : "-3"
+    },
+    "case 3" : 
+    {
+        "input" : "2 5",
+        "output" : "-3"
+    },
+    "case 4" : 
+    {
+        "input" : "8 5",
+        "output" : "3"
+    },
+    "case 5" : 
+    {
+        "input" : "9 5",
+        "output" : "4"
+    }
+}
