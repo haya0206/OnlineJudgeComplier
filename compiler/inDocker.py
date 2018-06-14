@@ -47,4 +47,4 @@ if __name__ == '__main__':
             sys.exit(1)
     totaltime_Result = totaltime / data['caseNum'] 
     totaltime_Result = int(totaltime_Result)
-    print('sucksex!! Time :',totaltime_Result,'TotalTime :',totaltime,end=' ')
+    print('success! Time :',totaltime_Result,'TotalTime :',totaltime,end=' ')
